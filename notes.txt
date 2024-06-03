@@ -1,0 +1,21 @@
+
+
+
+
+
+
+Exception;
+ - Compile Time Error: Compiler return the error. live
+ //-Link Time Error: Compiler return the error. live
+ //-Runtime Error: Compiler return the error. live
+ Missing semicolons 
+ Mismatch braces
+ File Mismatch
+ Syntax error
+ Case Mismatch
+ Pre-Defined variables
+ Type Mismatch
+
+
+ Runtime Error : execution
+ Logical error
